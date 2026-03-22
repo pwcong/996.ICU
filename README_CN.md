@@ -1,3 +1,9 @@
+为承德程序员所遭受的不公正待遇发声，此案影响深远，严重性远超 996 问题。
+
+链接：[翻墙访问国际互联网打工被处罚百万](https://v2ex.com/t/976757)
+
+![image](https://github.com/996icu/996.ICU/assets/48942249/4e1906eb-ac5b-4b33-9470-bf422a345fba)
+
 [996.ICU](https://996.icu/#/zh_CN)
 =======
 **请注意 996.ICU 没有除域名和库以外的任何官方账号、app、周边，请勿给予有心之人可乘之机。**
@@ -9,7 +15,7 @@
 [![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg?style=flat-square)](https://996.icu/#/zh_CN)
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![Slack](https://img.shields.io/badge/slack-996icu-green.svg?style=flat-square)](https://join.slack.com/t/996icu/shared_invite/enQtNjI0MjEzMTUxNDI0LTkyMGViNmJiZjYwOWVlNzQ3NmQ4NTQyMDRiZTNmOWFkMzYxZWNmZGI0NDA4MWIwOGVhOThhMzc3NGQyMDBhZDc)
-[![HitCount](http://hits.dwyl.io/996icu/996.ICU.svg)](http://hits.dwyl.io/996icu/996.ICU)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F996icu%2F996.ICU&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 相关报道
@@ -44,6 +50,8 @@
 
 ### 官媒
 - [996当退场](http://www.xinhuanet.com/politics/2019-04/15/c_1124370790.htm)
+### 部委机关
+- [人力资源社会保障部、最高人民法院联合发布超时加班劳动人事争议典型案例](http://www.court.gov.cn/zixun-xiangqing-319161.html)
 
 ### 资本家
 - **马云, 阿里巴巴创始人**: `“996”是一种福报`。
@@ -77,8 +85,6 @@
  - [955.WLB](https://github.com/formulahendry/955.WLB) 955 公司白名单，旨在让更多的人逃离 996，加入 955 的行列。
 
  - [996.LIST](https://github.com/fengT-T/996_list) 此 repo 为 996 和 955 的匿名投票列表。
- 
- - [996.law](https://github.com/CPdogson/996.law) 面向所有劳动者的一份劳动仲裁与劳动诉讼的攻略手册，看完它之后你甚至不用找律师。并且倡导劳动者在工作中随时取证以备后患。
 
  - [996.YAOCL](https://github.com/boycott996/yaocl) Yet Another Overtime Corps List, 另外一个匿名投票列表
 
@@ -87,8 +93,6 @@
  - [996.RIP](https://996.rip) 企业可能会忘，但我们不会忘。
 
  - [996.Petition](https://github.com/xokctah/996.petition) 向相关政府主管单位投递公开信，请求主管单位采取行动。
-
- - [996.action](https://github.com/CPdogson/996action) 强调用行动抗议996的板块，向政府信息公开火热进行中，#向马云寄劳动法#行为艺术式，除此之外还有许多行动选择。
  
  - [996.avengers](https://github.com/996-icu-avengers/Natasha) 旨在各大招聘网站标记996.ICU和955.WLB上榜公司。
  
@@ -105,6 +109,8 @@
   - [996.Blockchain](https://github.com/996BC/996.Blockchain) 一个存储加班证据摘要的区块链项目
 
   - [996.Error](https://github.com/MagicLu550/996Error) 收集各种语言写的“996”异常,可以在项目中直接使用
+
+  - [996.blacklist](https://github.com/996icu/996.ICU/tree/master/blacklist) 996企业信息数据黑名单，基于slack频道和discord频道提供。已经更新996icu内部的blacklist数据
  
 Issues 去哪了？
 ---

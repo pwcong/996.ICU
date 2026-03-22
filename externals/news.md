@@ -153,12 +153,12 @@
 
 ### 香港媒体
 
-- 南华早报：[‘Developers’ lives matter’ – Chinese software engineers use Github to protest against the country’s 996 work schedule](https://www.scmp.com/tech/start-ups/article/3003691/developers-lives-matter-chinese-software-engineers-use-github)
+- 南华早报：[‘Developers’ lives matter’ – Chinese software engineers use GitHub to protest against the country’s 996 work schedule](https://www.scmp.com/tech/start-ups/article/3003691/developers-lives-matter-chinese-software-engineers-use-github)
 - 南华早报：[Quantity or quality? China’s ‘996’ work culture comes under scrutiny](https://www.scmp.com/tech/start-ups/article/3005947/quantity-or-quality-chinas-996-work-culture-comes-under-scrutiny)
 
 ### 非中国媒体
 
-- 《连线》杂志：[How github is helping overworked chinese programmers](https://www.wired.com/story/how-github-helping-overworked-chinese-programmers/)
+- 《连线》杂志：[How GitHub is helping overworked chinese programmers](https://www.wired.com/story/how-github-helping-overworked-chinese-programmers/)
 
 - Vice：[Chinese Workers Are Trying to Bake Fair Labor Practices Into Software](https://motherboard.vice.com/en_us/article/mbz84n/chinese-workers-are-trying-to-bake-fair-labor-practices-into-software)
 
@@ -167,6 +167,8 @@
 - Abacus：[Follow China’s “996” work hours and you’ll end up in an ICU, says Chinese developer](https://www.abacusnews.com/digital-life/follow-chinas-996-work-hours-and-youll-end-icu-says-chinese-developer/article/3003702)
 
 - Abacus：[Chinese browsers block protest against China’s 996 overtime work culture](https://www.abacusnews.com/digital-life/chinese-browsers-block-protest-against-chinas-996-overtime-work-culture/article/3004543)
+
+- Abacus：[Experience the damaging reality of China’s 996 work culture in a new game](https://www.abacusnews.com/games/experience-damaging-reality-chinas-996-work-culture-new-game/article/3077591)
 
 - The Irish Times：[China tech worker protest against long working hours goes viral](https://www.irishtimes.com/business/technology/china-tech-worker-protest-against-long-working-hours-goes-viral-1.3848463)
 

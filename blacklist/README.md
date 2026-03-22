@@ -38,14 +38,17 @@
 |北京|首约汽车||||bde8b2d8c89418b5553b199d91ba9394ccacc867|被无故取消，没有提交证据，希望提交证据|
 |六安|六安人论坛||||c18807f14ade6b12fc1042077a77ca9bd8de02d3|没有任何证据|
 |北京|必胜课||||a53f1aa6747a6fe4e27cb3475551875aa17bf11d|[盖章文件](img/必胜课取消证据01.png)|
-|杭州|[一喂](http://www.yivizd.com)|2017年5月|996|[PR](https://github.com/996icu/996.ICU/pull/25841)|
+|杭州|[杭州一喂智能科技有限公司](http://www.yivicar.com)|2017年5月|996|[关于杭州一喂出现在黑名单的反馈 (注意pull时间)](https://github.com/996icu/996.ICU/pull/25841)|
 
 名单列表
 ---
 |所在城市|公司名字|曝光/施行时间|制度描述|证据内容|
 |:---:|:---:|:---:|:---:|:---:|
+|杭州|[彩讯股份](https://www.richinfo.cn/)|2025年01月|十年社保只有五天年假(严重违法)，每月义务加班4.5天不等，绩效按加班时长排| [年假01](img/caixun01.png)、[年假02](img/caixun02.png)、[无偿加班](img/caixun03.png)|
+|天津|[云账户](https://www.yunzhanghu.com/)|2019年6月|大小周|[公司邮件](https://i.loli.net/2021/08/22/PKcnGhmfQ64OT18.png)|
+|北京|[中国农业银行研发中心](http://www.abchina.com/cn/)|2015年1月|996无偿加班，降薪|[脉脉员工发多个帖子1300+评论](https://maimai.cn/web/gossip_detail?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiNzlhYTRlOWIwYTIxMTFlYzg4NTBlNDQzNGIyZmE4ODgiLCJ1IjoyMjU2OTYxNTcsImlkIjoyOTM1MjMxOH0.Hrz8kApYUk4jt8-AG8daEbT7s6Dy6jvX56m3YNVVblo&share_channel=2&_share_channel=wechat) / [帖子2](https://maimai.cn/web/gossip_detail?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiZGM0MmFkYmQwYmJhMTFlY2JkZTZlNDQzNGIyZmE4ODgiLCJ1Ijo3NzA0NDc0MSwiaWQiOjI5MzYwODA2fQ._s1E-UBE0b_BIyDjJJOqYBU6UOnHMNO3F6QERm-K3qw&share_channel=2&_share_channel=wechat) / [知乎帖子](https://www.zhihu.com/question/484172369?utm_source=wechat_session&utm_medium=social&utm_oi=1101404494474088448&utm_content=group1_supplementQuestions&utm_campaign=shareopn)|
 |上海|[百安居](https://www.bthome.com/)|2019年6月|996|领导口头描述|
-|上海|[拼多多](https://www.pinduoduo.com//)|2019年2月|11116、两班倒|[996还不敷，拼多多又玩两班倒，员工大喊：比富士康还狠](http://www.taobao92.com/thread-1313-1-1.html)|
+|上海|[拼多多](https://www.pinduoduo.com//)|2019年2月|11116、两班倒|[996还不敷，拼多多又玩两班倒，员工大喊：比富士康还狠](http://www.taobao92.com/thread-1313-1-1.html), [如何看待网传拼多多员工加班后猝死一事？拼多多需要承担哪些责任？](https://www.zhihu.com/question/437702180)|
 |上海|[盛赫游戏](http://www.shengheyouxi.com)|2019年3月|大小周|[boss直聘](https://www.zhipin.com/gongsi/c57418b66b0cf3bf0nd52928.html?ka=brand_list_company_9)|
 |上海|[砸立](https://m.eyee.com/)|2019年1月|996|[看准网](https://www.kanzhun.com/gsr5728610tl526.html?ka=review-label2)|
 |上海|[游族网络](https://www.youzu.com/)|2018年3月|996|[你为什么从游族离职?-知乎](https://www.zhihu.com/question/22411680?sort=created)|
@@ -103,6 +106,7 @@
 |珠海|[金山软件](http://www.kingsoft.com/)|2017年7月12日|996/9106|[图片](img/金山软件-9106.png)
 |北京|[信美人寿相互保险社](https://www.trustlife.com/)|2019年|996|[看准网](https://www.kanzhun.com/gsr5723919.html?ka=com-blocker1-review)、[看准网](https://www.kanzhun.com/gsr6603074.html?ka=com1-review)| 
 |太原|[辉讯网络技术有限公司](http://www.7zy.net/)|2019年3月|996|亲历 [考勤](https://i.loli.net/2019/04/11/5cae537484b5d.jpg) | 
+|上海|[上海基分文化传播有限公司](https://www.qutoutiao.net//)|2019年12月|995+大小周|[趣头条,米读小说,萌推,比格基地等](https://www.qutoutiao.net/) | 
 |上海|[上海鱼泡泡信息科技有限公司](https://www.yupaopao.com//)|2018年12月|996|[脉脉](https://maimai.cn/web/gossip_detail?encode_id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MjA4NjEwNjcsImlhdCI6MTU1NDk1MDU0OX0.Hd0uP3y9GMnN1OA8fhV0xvCQKT-GBQ33BzUmT1CCavk) | 
 |武汉|[武汉星云海数字科技股份有限公司](http://www.scotec.net/)|2019年4月|996|[图片](img/hxqc1.jpg)、[图片](img/hxqc2.jpg)、[图片](img/hxqc3.jpg)、[看准网](https://www.kanzhun.com/gso5662099.html)|
 |福建|[福建浔兴拉链科技股份有限公司](http://www.sbszipper.com/)|2019年6月17日|单休|亲历+[大小休改单休！](img/sbs-大小周改单休.png)|
@@ -118,6 +122,7 @@
 |北京|[51talk](http://www.51talk.com/)|2019年4月|早11晚10一周6天，领导不高兴就不放假或者让你晚上12点走|[看准网](https://www.kanzhun.com/question/769860.html)|
 |南京|[苏宁](http://www.suning.com)|2019年3月|996|[如何评价今年苏宁正式实行996工作制?](https://www.zhihu.com/question/314152843/answer/613149536)|
 |厦门|[4399游戏](www.4399.com/)|2019年4月7日|10106|[看准网](https://www.kanzhun.com/gsr3284tl56.html?ka=review-label13)|[知乎](https://www.zhihu.com/question/20608889/answer/15623928)|
+|厦门|[联生活科技集团](https://www.lsh1688.cn/)|2021年5月29日|大小周+经常加班+拖欠工资+不缴纳一金|[BOSS直聘](https://www.zhipin.com/gongsi/7fd7ad361f562fae1nZ82Nm4ElY~.html?ka=company-intro)[截图1](img/联生活1.png)[截图2](img/联生活2.png)[截图3](img/联生活3.png)|
 |嘉兴/广州|[蓝鸽集团有限公司](http://www.chinalancoo.com)|2019年4月4日|每月仅加班需满50小时|曾经一个月加班60小时被喝茶、[知乎爆料](https://www.zhihu.com/question/40782949)、[工资中的一半是要靠加班和绩效才能取得](https://tieba.baidu.com/f?kz=4421231059&mo_device=1&ssid=0&from=844b&uid=0&pu=usm@2\|sz@320_1001\|ta@iphone_2_7.0_24_67.0&bd_page_type=1&baiduid=16C9EAE1D7D54FAC1A178F5882C9EBD3&tj=h5_mobile_1_0_10_l4&referer=m.baidu.com?pn=0&)|
 |大连|[大连东软集团](https://www.neusoft.com/cn/)|2019年4月|9106|[看准网](https://www.kanzhun.com/pl5758283.html?ka=review-item2)、[看准网](https://www.kanzhun.com/pl5892120.html?ka=review-item10)|
 |大连|[大连同方软银科技股份有限公司](http://www.tfrunning.com.cn)|2019年4月|996|[看准网](https://www.kanzhun.com/pl5661184.html?ka=review-item6)、[看准网](https://www.kanzhun.com/pl7170642.html?ka=review-item-ckqw)|
@@ -207,13 +212,12 @@
 |苏州|玩友时代|2019年5月|995, 排班996值班;无加班工资，名义调休，真调休的话领导各种不爽|[看准网](https://www.kanzhun.com/gsr5632014tl56.html)|
 |北京|赞同科技|2019年5月|997, 无加班工资|[看准网](https://www.kanzhun.com/gsr37775.html)、 [看准网用户评论](https://www.kanzhun.com/pl5666140.html)|
 |北京|网医纳康|2019年5月|996，奋斗者协议|[奋斗者协议图片](http://ww1.sinaimg.cn/large/5e18fb3fly1g2tzf4xpjej20go0m83zd.jpg)|
-|苏州|携住(快住)智能科技|2019年5月|966|[图片](img/IMG_2365.JPG)|
 |淄博|淄博赢师教育有限公司|2019年5月|老板随心所欲扣钱处罚，上下班无固定时间，出差无休息，强制加班，加班费只有几块钱甚至无加班费|[聊天截图](https://i.loli.net/2019/05/09/5cd42abc516fd.jpg)<br/>[聊天截图2](https://i.loli.net/2019/05/09/5cd42abc6579b.jpg)<br/>[聊天截图3](https://i.loli.net/2019/05/09/5cd42abc6c140.jpg)|
 |北京|北京凯奇谷信息技术股份有限公司|2019年5月|996|[看准网](https://m.kanzhun.com/pl6920611.html?sid=kzapp)|
 |深圳|深圳航天信息|2019年5月|976；大小周；完全没有加班工资，没有任何补助，加班时间计算在绩效中，每天没加班1小时扣绩效。|[没有任何补贴，无差别加班](https://i.loli.net/2019/05/09/5cd42bb1e41b2.png)<br/><br/>[加班时间不算在绩效中的额外工作时间。也就是周六日加班不算在绩效加班时间中。](https://i.loli.net/2019/05/09/5cd42bb20076b.png)|
 |南京|江苏润恒物流发展有限公司（集团）|2019年5月|8:30-20:30或10:30 无加班工资，不加班扣工资，扣押合同，不按合同发放13薪水，拖欠工资…|[知乎](https://www.zhihu.com/question/265367701)|
 |北京|海尔优家智能科技（北京）有限公司|2019年5月|不定期996或976，没有加班工资，或极少补偿；开始强制2个月，强制执行3个月，春节前后不能请假|开始强制2个月:[图片1](img/海尔优家智能科技.png)，[图片2](img/海尔优家智能科技2-1.jpg)<br/>[强制执行3个月，春节前后不能请假](img/海尔优家智能科技2-2.jpg)|
-|北京|松鼠拼拼|2019年5月|996|[拉勾网](https://www.lagou.com/gongsi/q211444.html)<br/><br/>[996评论](https://yanzhi.lagou.com/question/82537.html)|
+|北京|松鼠拼拼|2019年5月|996|[拉勾网](https://www.lagou.com/gongsi/q211444.html)<br/>[996评论](https://yanzhi.lagou.com/question/82537.html)|
 |南京|车置宝|2019年5月|996|[看准网评论](https://www.kanzhun.com/pl6252690.html)|
 |深圳|深圳市艾森智能技术有限公司|2019年5月|996，加班无工资，激励员工多加班。扬言说不加班不是的公司会死去。|[聊天截图](img/wechatimg5498-meitu-1.png)|
 |杭州|杭州数澜科技有限公司|2019年5月|996|[看准网](https://www.kanzhun.com/gsr5709934.html)<br/>[看准网评论1](https://www.kanzhun.com/pl7182332.html)<br/>[看准网评论2](https://www.kanzhun.com/pl6556133.html)|
@@ -232,7 +236,7 @@
 |深圳|[利朗达](http://www.rondaful.com/)|2017年10月|996、加班费一天15块|[知乎](https://www.zhihu.com/question/265739414)|
 |兰州|[中电万维](http://www.wanwei.com.cn/)|2018年3月|997|[看准网](https://www.kanzhun.com/pl7109874.html?ka=review-item4)|
 |广州|广州智悦网络科技有限公司|2019 年 4 月 1 号| 995 |[图片](/blacklist/img/gz_zhiyue.png)|
-|上海|[上海欧电云信息科技有限公司](http://www.odianyun.com/)|2019年5月|表面是965，其实至少995，经常加班到凌晨1‖2点，没有加班工资。|[加班点餐邮件1](img/欧电云加班行政邮件截图3.png)，[加班点餐邮件2](img/欧电云加班餐票截图1.png),[加班点餐邮件2](img/欧电云加班餐票截图2.png|
+|上海|[上海欧电云信息科技有限公司](http://www.odianyun.com/)|2019年5月|表面是965，其实至少995，经常加班到凌晨1‖2点，没有加班工资。|[加班点餐邮件1](img/欧电云加班行政邮件截图3.png)，[加班点餐邮件2](img/欧电云加班餐票截图1.png)，[加班点餐邮件3](img/欧电云加班餐票截图2.png)|
 |南京|[南京万米信息技术有限公司](http://www.wanmi.com/)|2019年6月|公司经常996|[ceo强调9961](img/ceo1.jpeg)，[ceo强调9962](img/ceo2.jpeg)|
 |成都|成都市极米科技有限公司|2019年6月|大小周、99|[公司群内通知](https://i.loli.net/2019/06/22/5d0dcde28d55045439.png)|
 |兰州|中电万维信息技术有限责任公司|2019年6月|996|[TIM截图](https://i.loli.net/2019/06/22/5d0dcf975ff1796946.png)[TIM截图](https://i.loli.net/2019/06/22/5d0dcf97c1d9342344.png)|
@@ -244,9 +248,10 @@
 |上海|上海非码网络科技有限公司|2019年9月|996，无加班费，更不提供加班餐。|[班车通知](https://i.loli.net/2019/06/22/5d0dd4ac3a91b42022.png)[内部论坛](https://i.loli.net/2019/06/22/5d0dd4ae49dbb47592.png)|
 |长沙|杭州数梦工场科技有限公司|2019年9月|周一到周四早9晚9 周五周日早9晚6|[内部排版](https://i.loli.net/2019/06/22/5d0dd5063e0ed50557.png)|
 |桐庐|海康威视|2019年9月|777大小周|[知乎](https://www.zhihu.com/question/36922386/answer/545711911)|
+|北京|北京狸米科技有限公司|2019年5月|996|[知乎](https://www.zhihu.com/question/302231030/answer/885385515)|
 |杭州|吾诺瀚卓||8:30-18:00，一周6天|https://baijiahao.baidu.com/s?id=1640013112742652456&wfr=spider&for=pc|
 |临沂|临沂乐卓软件开发有限公司|未知，应该是从成立开始|86.56|仅工作一日无证据，早八点到晚六点半为正常上班时间。|
-|郑州|宇通客车股份有限公司|2019年9月|887|[知乎](https://www.zhihu.com/question/303129920/answer/576465096)}
+|郑州|宇通客车股份有限公司|2019年9月|887|[知乎](https://www.zhihu.com/question/303129920/answer/576465096)
 |东莞|[华勤通讯](http://www.huaqin.com/)|2019年7月|996，每天加班|[知乎](https://www.zhihu.com/question/49628909/answer/522467068)
 |杭州|安徽凯才信息有限公司(呆萝卜)杭州研发中心|2019年6月|996|[内部群通知](https://i.loli.net/2019/07/18/5d2f4d561cc2672533.jpeg)|
 |山东临沂|临沂沂川网络科技有限公司|2019年7月|强制加班|[工作群截图](https://i.loli.net/2019/07/16/5d2d7ea1e938a30364.png)|
@@ -255,10 +260,22 @@
 |山东临沂|临沂沂川网络科技有限公司|2019年4月|请假1天扣双倍工资,定修4天(即使某月有5个周日)|[规定照片](https://i.loli.net/2019/07/16/5d2d7f8d4d4a955770.jpg)|
 |山东临沂|临沂沂川电子有限公司|2015年9月|沂川网络招聘用的皮包公司|附录内3个视频,关键证据:视频内宣传板上印有2公司logo|
 |南京|法奔科技|2018年|996,阴阳合同,强制加班,扣离职工资,老板律师知法犯法|正在整理,附上仲裁书|
-|上海|普道科技|2019年7月|晚上11点,早上10点,一周6天|[知乎](https://www.zhihu.com/question/303129920/answer/576465096)}
-|上海|上海栈略数据技术有限公司|2019年8月|时间不定, 基本8点, 扬言加班也得做完, 并没有任何补偿|[看准网](https://www.kanzhun.com/gso6488393.html?ka=com1-title)}
-|北京|东方国信|2019年8月|晚上9点,早上9点,一周6天|[看准网](https://www.kanzhun.com/gsr621338tl56.html)，[打卡](https://sm.ms/image/wogVyArL9udaTjF)}
-|北京-长沙|映客直播|2019年8月|晚上隐性加班,一周6天|[工作群截图](https://sm.ms/image/aQu5Z7olYmPX3BU)}
+|上海|普道科技|2020年8月|晚上11点,早上10点,一周6天,有的组一周7天，不让请事假病假，周六加班请假有惩罚|[知乎](https://www.zhihu.com/question/303129920/answer/576465096)，[群聊不让请假](https://i.loli.net/2020/08/14/XncgmSvibza7ITw.jpg)，[群聊请假惩罚1](https://i.loli.net/2020/08/14/YoUMTQfc78rq6ZD.jpg)，[群聊请假惩罚2](https://i.loli.net/2020/08/14/BlzhiJEYxpMLauU.jpg)
+|上海|上海栈略数据技术有限公司|2019年8月|时间不定, 基本8点, 扬言加班也得做完, 并没有任何补偿|[看准网](https://www.kanzhun.com/gso6488393.html?ka=com1-title)
+|北京|东方国信|2019年8月|晚上9点,早上9点,一周6天|[看准网](https://www.kanzhun.com/gsr621338tl56.html)，[打卡](https://sm.ms/image/wogVyArL9udaTjF)
+|北京-长沙|映客直播|2019年8月|晚上隐性加班,一周6天|[工作群截图](https://sm.ms/image/aQu5Z7olYmPX3BU)
 |北京|澎思智能|2019年7月|996|[微信截图](https://github.com/wangleipes/996.ICU/blob/master/blacklist/img/%E6%BE%8E%E6%80%9D.png)|
 |南京|[中设设计集团子公司纬信工程咨询公司](http://www.js-wx.com.cn/lxwm.asp)|自公司成立|领导明令8106，工作前三年无年假|[群聊截图1](img/道桥部群聊截图.jpg)，[群聊截图2](img/道桥部群聊截图1.jpg)，[群聊截图3](img/道桥部群聊截图2.jpg)，[签到表7.31](img/签到表7.31.jpg)，[签到表8.1](img/签到表8.1.jpg)|
 |北京|畅捷通信息技术股份有限公司|2019年8月,9月|领导明令996, 每周二四固定加班|[邮件截图](img/畅捷通-996-mail-m.jpg)，[群聊截图](img/畅捷通-996-m.jpg)|
+|上海|上海竟跃网络科技有限公司|2019年或更早|招聘网站写明007|[招聘截图](img/捞月狗招聘信息.jpg)|
+|云南昆明|云南联通新通信有限公司|2020年2月起|云南联通新通信有限公司：云南联通经济效益太差执行混改后划分的子公司，新官上任三把火，加之内心清楚初始资本不够耗，运营模式商业转化效率低下，开始勒令开发996，执行之后对公说这是开发部门自发奋斗，其他部门应该与之学习|[群聊截图](img/ynunicom_ding_talk.jpg)|
+|深圳-成都-重庆|深圳市锐明技术股份有限公司|2020年4月|领导明令996, 每周三固定加班,无加班工资，加班不调休|[邮件截图](img/streamax-996.png)|
+|深圳|深圳市万屏时代科技有限公司|2020年4月|强制996，迟到早退罚款|[工作群截图](https://i.loli.net/2020/04/27/MwKVDCpH1J59A4c.jpg)，[钉钉考情截图](https://i.loli.net/2020/04/29/sqTSyMJjhfrBbae.jpg)|
+|成都|天津硕烁科技有限公司|2020年12月|应该是个外包壳公司，成都的注意这个办公地点（成都市 武侯区 招商银行金融后台服务中心）我看到有十来个公司招聘的办公地点都在这里，可以确定这里是个外包，这家公司明确的挂出了996|[招聘截图1](img/天津硕烁科技有限公司1.jpg)，[招聘截图2](img/天津硕烁科技有限公司2.jpg)，[BOSS直聘](https://m.zhipin.com/mpa/html/weijd/weijd-job/5610ccc9ecd3d5791nV83t6-FlJS?date8=20201223&sid=tosee_jd_89126274208e84961nZ52dm4GVpX)|
+|深圳|深圳市富元网络科技有限公司|2020年9月|公司老板强制996，无加班费，只有远低于工资的少量餐补，公司已从“深圳市新超能数字信息技术服务有限公司”改名为“深圳市富元网络科技有限公司”，简称“富元环球”|[群聊截图](img/9f996.png)|
+|北京|Udesk(北京沃丰时代数据科技有限公司)|2019年|996|[知乎](https://www.zhihu.com/question/50785581)|
+|广东|[广东数果科技有限公司](http://sugo.io/)|2021年8月1号|某领导高层要求产品团队强制 996，忽悠的一波并且不给加班费；钉钉上打卡时间设置下21:00才下班，早下的视为早退；已经有几个同事提出离职，已经有几个同事不服从的被离职。见到的不要来啊，福利真的没啥。|[考勤截图](./img/广东数果科技-考勤.png)<br>[996 文件](./img/广东数果科技-996%20文件.png)|
+|上海|上海电信CRM项目组|2019年5月|每天至少工作12小时，周末采取大小周|[群聊截图1](img/上海电信CRM1.png)，[群聊截图2](img/上海电信CRM2.png)，[报道链接](http://www.shftth.com/news/2019-6-13/981.html)|
+|广州|北京滴普科技有限公司|2019年10月底|群里宣布10106/996,请假还需报备|[聊天记录截图1](img/dipu996record1.jpg),[聊天记录截图2](img/dipu996record2.jpg),[看准网](https://www.kanzhun.com/gso7687290.html?ka=com1-title)|  
+|北京|北京信安世纪科技股份有限公司 / 北京华耀科技有限公司|2023年4月|985，明确表明20:00前的加班不算加班，不统计进调休时间内。|[内部邮件](https://s2.loli.net/2023/07/15/ZxDV1dOP4pzj5cS.png), [OA打卡记录](https://s2.loli.net/2023/07/15/Yzxy16MepKkZXbn.png)|
+|天津|北京安华金和科技有限公司-天津研发中心|2025年3月|某大领导为赶所谓的进度群里要求晚上加班到21:00以后，周六也要来上班|[内部群截图1](img/北京安华金和-天津研发中心-内部群截图.jpg)|
